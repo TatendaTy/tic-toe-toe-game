@@ -1,4 +1,4 @@
-This is a tic-tac-toe game created using React.
+# This is a tic-tac-toe game created using React.
 
 clone the project into a local directory on your machine
 
